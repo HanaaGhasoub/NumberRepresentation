@@ -1,4 +1,4 @@
-﻿namespace Qoniac.CurrencyStringConverter;
+﻿namespace CurrencyStringConverter;
 
 public static class NumbersBook
 {

@@ -1,4 +1,4 @@
-﻿namespace Qoniac.CurrencyStringConverter;
+﻿namespace CurrencyStringConverter;
 
 internal class Program
 {

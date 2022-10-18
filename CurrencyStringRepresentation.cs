@@ -1,6 +1,6 @@
 ﻿using System.Text;
 
-namespace Qoniac.CurrencyStringConverter;
+namespace CurrencyStringConverter;
 
 public static class CurrencyStringRepresentation
 {
